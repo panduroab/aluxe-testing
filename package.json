@@ -1,0 +1,15 @@
+{
+  "name": "aluxe-testing",
+  "version": "0.0.1",
+  "description": "Aluxe Testing. A testing tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "author": "Abraham Panduro, https://github.com/panduroab",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0"
+  }
+}
