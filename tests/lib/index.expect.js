@@ -1,9 +1,9 @@
 describe("Aluxe Testing library", () => {
-    it("should generate the testing.ecosystem.js file", done => {
+    it("should generate the aluxe.testing.js file", done => {
 
     });
 
-    it("should get all the entities from a testing.ecosystem.js file", done => {
+    it("should get all the entities from a aluxe.testing.js file", done => {
 
     });
 
